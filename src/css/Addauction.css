@@ -1,0 +1,39 @@
+.addauction{
+    background-image: url("../images/istockphoto-1071588930-612x612.jpg");
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+    height: 700px;
+    margin:auto;
+    margin-top: -30px;
+    padding-top: 50px;
+}
+.addauctionForm{
+    display: flex;
+    background-color:rgba(255, 255, 255, 0.502);;
+    opacity: .8;
+    flex-flow: column wrap;
+    width: 700px;
+    height: 600px;
+    justify-content: center;
+    align-content: center;
+    margin:auto;
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.inaddauction{
+    border: 2px solid darkblue;
+    padding: 7px;
+    border-radius: 5px;
+}
+.addimage{
+    padding: 5px;
+    margin: 5px;
+    color: darkblue;
+    font-size: large;
+}
+.textaddauction{
+    text-align: center;
+    font-size: 50px;
+}

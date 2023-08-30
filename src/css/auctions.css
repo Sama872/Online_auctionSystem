@@ -1,0 +1,36 @@
+.main-content .container .row{
+    margin: 50px;
+}
+
+.main-content h1{
+    text-align: center;
+    margin: 70px 0;
+}
+
+.main-content .spinner{
+    margin-left: 50%;
+    font-size: 200px;
+}
+.content{
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.content .search button{
+    height: 80px;
+    padding: 0 30px;
+}
+.content .search .search-input{
+    height: 80px;
+    border:1px solid #0d6efd ;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;  
+    margin-bottom: 50px;
+    margin-right: 10px;
+}
+
+.col-sm-6{
+    margin-bottom: 20px;
+}

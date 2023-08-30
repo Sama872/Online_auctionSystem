@@ -1,0 +1,41 @@
+.register{
+    background-image: url("../images/istockphoto-1071588930-612x612.jpg");
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+    height: 600px;
+    margin-top: -30px;
+    padding-top: 50px;
+}
+.formregister{
+    background-color:rgba(255, 255, 255, 0.502);;
+    background-repeat: no-repeat;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 700px;
+    height: 450px;
+    border-radius: 15px;
+    margin:auto;
+    justify-content: center;
+    align-items: center;
+}
+.inputregister{
+    width: 300px;
+    height: 40px;
+    color: gray;
+    border-radius: 5px;
+    border: none;
+    margin: 5px;
+    
+}
+.inputregister:focus{
+    border: 3px solid darkblue;
+}
+.submitregister{
+    width: 110px;
+    height: 40px;
+    margin: auto;
+    display: block;
+}
